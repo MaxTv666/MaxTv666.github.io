@@ -1,0 +1,40 @@
+* {
+    margin: 50px;
+}
+body {
+    font-size: 50px;
+    color: blue;
+}
+p {
+    color: rgb(0, 195, 255);
+    font-family: Lobster;
+    margin: 30px;
+}
+
+h1 {
+    color: crimson;
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+}
+
+img {
+    max-width: 99%;
+    width: auto;
+    display: block;
+}
+        
+div {
+    width: 70%;
+    margin: auto;
+    padding: 100px;
+    background: rgb(70, 63, 63);
+    box-shadow: red;
+}
+a {
+    text-decoration: gold;
+    color: gold;
+    margin: 29px;
+}
+
+a :hover {
+    color: rgb(255, 0, 212);
+}
